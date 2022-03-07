@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\bin\Debug\net6.0\AddressBook.Dal.deps.json
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\bin\Debug\net6.0\AddressBook.Dal.dll
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\bin\Debug\net6.0\ref\AddressBook.Dal.dll
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\bin\Debug\net6.0\AddressBook.Dal.pdb
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.AssemblyInfo.cs
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.dll
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\ref\AddressBook.Dal.dll
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.pdb
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\bin\Debug\net6.0\AddressBook.Dal.runtimeconfig.json
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.genruntimeconfig.cache
+C:\Users\User\Desktop\MVC\AddressBook\AddressBook.Dal\obj\Debug\net6.0\AddressBook.Dal.csproj.AssemblyReference.cache
